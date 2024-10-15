@@ -1,0 +1,8 @@
+matplotlib == 3.8.4
+numpy == 1.26.4
+torch == 2.2.2
+torchvision == 0.17.2
+pandas == 2.2.2
+opencv_python == 4.9.0.80
+tqdm == 4.66.2
+tensorboard == 2.16.2
